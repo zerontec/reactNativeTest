@@ -1,8 +1,14 @@
 
-import React from 'react'
+import React from 'react';
+
+import {View, Text} from 'react-native'
 
 export default function Information() {
   return (
-    <div>Information</div>
+    <View>
+
+<Text>Estas en Information </Text>
+
+    </View>
   )
 }
